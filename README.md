@@ -8,3 +8,11 @@
 
 ## 使用说明
 > python3 doc2html  _[Doc files directory path]_  _[Outputs files directory path]_
+
+---
+
+# ChangeName
+将docx2html脚本生产的html文件拷贝并修改成可以导入米家滑板车插件中的html文件
+
+## 使用说明
+> python3 ChangeName.py  _[Html_files_directory_path]_  _[Outputs files directory path]_
